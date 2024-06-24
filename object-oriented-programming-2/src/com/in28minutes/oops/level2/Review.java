@@ -14,12 +14,12 @@ public class Review {
 	
 	public String addReview()
 	{
-		return (id + " " + comments + " " + rating);
+		return (id + "  " + comments + "  " + rating);
 	}
 	
 	public String toString()
 	{
-		return (id + " " + comments + " " + rating);
+		return (id + "  " + comments + "  " + rating);
 	}
 
 
